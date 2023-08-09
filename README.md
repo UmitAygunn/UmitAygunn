@@ -4,10 +4,10 @@
 
 I'm a passionate React developer with a knack for creating interactive and user-friendly web applications. I love diving into new challenges and experimenting with the latest technologies to build cutting-edge solutions. Here's a bit more about me:
 
-Skills: SAAS / REACT / JS / HTML / CSS / BOOTSTRAP 
+Skills: SASS / REACT / JS / HTML / CSS / BOOTSTRAP 
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning python.  
+- 🌱 I’m currently learning Html/Css/JavaScript/Sass/Python.
 - 👯 I’m looking to collaborate on open-source React projects. 
 - 📫 How to reach me: umitaygun43@gmail.com 
 
